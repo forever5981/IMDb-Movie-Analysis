@@ -1,3 +1,5 @@
+![IMDB](https://github.com/forever5981/IMDb-Movie-Analysis/assets/171000527/89209cbc-0fba-44cc-bd8a-f67e3398d5ca)
+
 Objective:
 Explore and analyze the IMDb movie dataset to uncover factors contributing to a movie's success, defined by high IMDb ratings. This analysis will help movie producers, directors, and investors make data-driven decisions for future projects.
 
